@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "31fh",
+      "title": "Milk",
+      "amount": 5,
+      "bought": true
+    },
+    {
+      "id": "fa14",
+      "title": "Egg",
+      "amount": 7,
+      "bought": true
+    },
+    {
+      "id": "8570",
+      "amount": 4,
+      "title": "Meat",
+      "bought": true
+    },
+    {
+      "id": "b9b4",
+      "amount": 1,
+      "title": "Apple",
+      "bought": true
+    },
+    {
+      "id": "0b61",
+      "amount": 1,
+      "title": "Sour cream",
+      "bought": true
+    },
+    {
+      "id": "ae42",
+      "amount": 1,
+      "title": "Cookies",
+      "bought": true
+    },
+    {
+      "id": "6ba3",
+      "amount": 1,
+      "title": "Tomato",
+      "bought": true
+    }
+  ]
+}
